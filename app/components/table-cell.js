@@ -1,3 +1,3 @@
-import TableCell from 'ember-table/components/table-cell';
+import TableCell from 'ember-table-old/components/table-cell';
 
 export default TableCell;

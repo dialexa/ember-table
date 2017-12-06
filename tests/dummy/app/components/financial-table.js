@@ -1,7 +1,7 @@
 // BEGIN-SNIPPET financial-table-component
 import Ember from 'ember';
-import TableComponent from 'ember-table/components/ember-table';
-import ColumnDefinition from 'ember-table/models/column-definition';
+import TableComponent from 'ember-table-old/components/ember-table';
+import ColumnDefinition from 'ember-table-old/models/column-definition';
 import FinancialTableTreeRow from './financial-table/table-tree-row';
 import NumberFormatHelpers from '../utils/number-format';
 

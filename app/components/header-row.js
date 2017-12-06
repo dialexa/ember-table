@@ -1,3 +1,3 @@
-import HeaderRow from 'ember-table/components/header-row';
+import HeaderRow from 'ember-table-old/components/header-row';
 
 export default HeaderRow;

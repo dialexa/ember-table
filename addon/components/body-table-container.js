@@ -1,8 +1,8 @@
 import Ember from 'ember';
-import TableContainer from 'ember-table/mixins/table-container';
-import ShowHorizontalScrollMixin from 'ember-table/mixins/show-horizontal-scroll';
-import TouchMoveHandlerMixin from 'ember-table/mixins/touch-move-handler';
-import ScrollHandlerMixin from 'ember-table/mixins/scroll-handler';
+import TableContainer from 'ember-table-old/mixins/table-container';
+import ShowHorizontalScrollMixin from 'ember-table-old/mixins/show-horizontal-scroll';
+import TouchMoveHandlerMixin from 'ember-table-old/mixins/touch-move-handler';
+import ScrollHandlerMixin from 'ember-table-old/mixins/scroll-handler';
 
 export default Ember.Component.extend( TableContainer,
 TouchMoveHandlerMixin, ScrollHandlerMixin,

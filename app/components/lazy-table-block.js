@@ -1,3 +1,3 @@
-import LazyTableBlock from 'ember-table/components/lazy-table-block';
+import LazyTableBlock from 'ember-table-old/components/lazy-table-block';
 
 export default LazyTableBlock;

@@ -1,6 +1,6 @@
 import Ember from 'ember';
-import StyleBindingsMixin from 'ember-table/mixins/style-bindings';
-import RegisterTableComponentMixin from 'ember-table/mixins/register-table-component';
+import StyleBindingsMixin from 'ember-table-old/mixins/style-bindings';
+import RegisterTableComponentMixin from 'ember-table-old/mixins/register-table-component';
 
 export default Ember.Component.extend(
 StyleBindingsMixin, RegisterTableComponentMixin, {

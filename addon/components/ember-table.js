@@ -1,7 +1,7 @@
 import Ember from 'ember';
-import StyleBindingsMixin from 'ember-table/mixins/style-bindings';
-import ResizeHandlerMixin from 'ember-table/mixins/resize-handler';
-import Row from 'ember-table/models/row';
+import StyleBindingsMixin from 'ember-table-old/mixins/style-bindings';
+import ResizeHandlerMixin from 'ember-table-old/mixins/resize-handler';
+import Row from 'ember-table-old/models/row';
 
 export default Ember.Component.extend(
 StyleBindingsMixin, ResizeHandlerMixin, {

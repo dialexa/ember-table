@@ -1,3 +1,3 @@
-import ColumnDefinition from 'ember-table/models/column-definition';
+import ColumnDefinition from 'ember-table-old/models/column-definition';
 
 export default ColumnDefinition;
