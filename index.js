@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-table',
+  name: 'ember-table-old',
 
   included: function(app) {
     this._super.included(app);
